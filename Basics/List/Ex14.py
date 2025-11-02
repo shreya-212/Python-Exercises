@@ -1,0 +1,4 @@
+#swap first and last element
+l=[1,2,3,4]
+l[0],l[-1]=l[-1],l[0]
+print(l)
